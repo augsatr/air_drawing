@@ -65,6 +65,9 @@ air_drawing/
 * Gesture-based UI controls
 * Virtual whiteboard support
 <img width="1917" height="1055" alt="Image" src="https://github.com/user-attachments/assets/59874dd5-5cc7-4adb-ba99-8b273348d75a" />
+<img width="1888" height="1059" alt="Image" src="https://github.com/user-attachments/assets/b9a7dc6d-50a9-47a2-ba69-8ac57b8710db" />
+<img width="1867" height="1016" alt="Image" src="https://github.com/user-attachments/assets/d611ca2f-a4f2-43ed-a260-9c8acec9d68b" />
+<img width="1828" height="973" alt="Image" src="https://github.com/user-attachments/assets/b15dc7fe-291f-4e1b-95a0-4f72078e2e46" />
 ## Author
 
 Sohan
